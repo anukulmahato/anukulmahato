@@ -36,7 +36,7 @@ I am a Web Developer living in Bangladesh. I am a fan of web design, web develop
 
 ## ☕ Connect with me!
 
-[<img src='./img/facebook.png' alt='facebook' height='40'>][anukulmahato]
+[<img src='./img/facebook.png' alt='facebook' height='40'>][facebooklink]
 [<img src='./img/twitter.png' alt='twitter' height='40'>][twitterlink]
 [<img src='./img/github.png' alt='github' height='40'>][githublink]
 [<img src='./img/linkedin.png' alt='linkedin' height='40'>][linkedinlink]
@@ -44,7 +44,7 @@ I am a Web Developer living in Bangladesh. I am a fan of web design, web develop
 
 <!-- Social site link -->
 
-[facebooklink]: https://www.facebook.com/freelancanukul/
+[facebooklink]: https://www.facebook.com/anukulmahato.io/
 [twitterlink]: https://twitter.com/freelancanukul
 [githublink]: https://github.com/freelanceranukul
 [linkedinlink]: https://www.linkedin.com/in/freelanceranukul/
